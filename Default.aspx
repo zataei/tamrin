@@ -5,12 +5,17 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
     <title></title>
+    <style type="text/css">
+        .ruta {
+            width: 468px;
+        }
+    </style>
 </head>
 <body>
 
 
 <div align="center">
-<table width="243" border="0" cellpadding="0" cellspacing="0" class="ruta" height="112" >
+<table border="0" cellpadding="0" cellspacing="0" class="ruta" height="112" >
     <form name="Login" method="Post" action="login_header.asp">
 <tr>
       <td  dir="rtl" colspan="2" bgcolor="#dedede" height="41" ><div align="center" dir="rtl">
