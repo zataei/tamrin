@@ -9,15 +9,33 @@
         .ruta {
             width: 468px;
         }
+        .auto-style1 {
+            width: 1026px;
+            height: 74px;
+        }
     </style>
 </head>
 <body>
 
 
+    <form id="form1" runat="server">
+    <div>
+    
+        <table style="width:100%;">
+            <tr>
+                <td>&nbsp;</td>
+                <td>
+                    <img alt="as" class="auto-style1" src="image/head2.jpg" /></td>
+                <td>&nbsp;</td>
+            </tr>
+            <tr>
+                <td>&nbsp;</td>
+                <td>
+
+
 <div align="center">
 <table border="0" cellpadding="0" cellspacing="0" class="ruta" height="112" >
-    <form name="Login" method="Post" action="login_header.asp">
-<tr>
+    <tr>
       <td  dir="rtl" colspan="2" bgcolor="#dedede" height="41" ><div align="center" dir="rtl">
         <p dir="rtl"><strong><font size="2">ورود به سيستم</font></strong></div></td>
   </tr>
@@ -45,15 +63,21 @@
         &nbsp;</font></td>
       <td dir="rtl" width="75"> &nbsp;</td>
   </tr>
- </form>
-</table>
+ </table>
 
 
  </div>
 
 
-    <form id="form1" runat="server">
-    <div>
+                </td>
+                <td>&nbsp;</td>
+            </tr>
+            <tr>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+            </tr>
+        </table>
     
     </div>
     </form>
